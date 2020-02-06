@@ -1,0 +1,2 @@
+# typscript
+typescriptstudy
